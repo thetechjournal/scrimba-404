@@ -5,6 +5,8 @@ Create a 404 page for Scrimba as part of [Weekly Web Dev Challenge](https://scri
 https://thetechjournal.github.io/scrimba-404/
 
 ## Features
-- Using CCS3 for animation effects.
+- Using CCS3 for animation effects. Don't forget to hover over the home page button to see animation in action.
 - Fully responsive. Built with html, CSS & vanilla JS.
 - Credit: Using [A hand-drawn illustration library](https://www.openpeeps.com/) and [Pixabay](https://pixabay.com) for images.
+
+
